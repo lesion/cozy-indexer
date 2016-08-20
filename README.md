@@ -1,3 +1,5 @@
+## Modified to work on arm64 (using odroid c2 here)
+
 ## [Cozy](http://cozy.io) Node Indexer
 
 Overlay to [search-index](http://npmjs.com/package/search-index) with support
