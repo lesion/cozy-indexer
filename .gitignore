@@ -12,6 +12,5 @@ benchmark/mails*.json
 benchmark/node_modules
 lib-cov
 logs
-lib
 node_modules
 search-indexes
